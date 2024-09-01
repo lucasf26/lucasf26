@@ -15,6 +15,7 @@ Skills:
 - Coding with different languajes.
 - Solid knowledge of algebra, calculus and statistics.
 - Machine Learning knowledge: regression, classification and clustering. Including linear models, trees and deep learning.
+- English intermediate.
 
 <!--
 **lucasf26/lucasf26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
