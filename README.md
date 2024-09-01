@@ -9,7 +9,7 @@ Languajes and Tools:
 - Word, Excel and Powerpoint.
 - Python (Numpy, Pandas, Matplotlib, ScikitLearn, Keras).
 - Octave and Matlab.
-- Fortran.
+- Fortran 77/90.
 
 Skills:
 - Coding with different languajes.
