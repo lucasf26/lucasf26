@@ -5,6 +5,12 @@
 - 📫 How to reach me: lucasf.2606@gmail.com
 - ⚡ Fun fact: i love music, fútbol and cooking.
 
+Languajes and Tools:
+- Word, Excel and Powerpoint.
+- Python (Numpy, Pandas, Matplotlib, ScikitLearn, Keras).
+- Octave and Matlab.
+- Fortran.
+
 <!--
 **lucasf26/lucasf26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
