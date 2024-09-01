@@ -1,7 +1,7 @@
 ## Hi there! My name is Lucas Ferraris 👋
 
-- 🔭 I’m currently working on Thermal-Hydraulics of CAREM-25 nuclear reactor.
-- 🌱 I’m currently learning Machine Learning and Python Libraries.
+- 🔭 I’m currently working on as Thermal-hydraulics analyst of CAREM-25 nuclear reactor, in CNEA (Argentina).
+- 🌱 I’m currently learning Machine Learning and Python Libraries for Data Science.
 - 📫 How to reach me: lucasf.2606@gmail.com
 - ⚡ Fun fact: i love music, fútbol and cooking.
 
@@ -13,8 +13,8 @@ Languajes and Tools:
 
 Skills:
 - Coding with different languajes.
-- Solid knowledge of algebra, calculus and statistics.
-- Machine Learning knowledge: regression, classification and clustering. Including linear models, trees and deep learning.
+- Solid knowledge of maths (algebra, calculus and statistics).
+- Machine Learning basics: regression, classification and clustering. From linear models to deep learning.
 - English intermediate.
 
 <!--
