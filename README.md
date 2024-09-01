@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! My name is Lucas Ferraris 👋
+
+- 🔭 I’m currently working on Thermal-Hydraulics of CAREM-25 nuclear reactor.
+- 🌱 I’m currently learning Machine Learning and Python Libraries.
+- 📫 How to reach me: lucasf.2606@gmail.com
+- ⚡ Fun fact: i love music, fútbol and cooking.
 
 <!--
 **lucasf26/lucasf26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
