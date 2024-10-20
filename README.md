@@ -7,15 +7,17 @@
 - ⚡ Fun fact: i love music, fútbol and cooking.
 
 Languajes and Tools:
-- Word, Excel and Powerpoint.
-- Python (Numpy, Pandas, Matplotlib, ScikitLearn, Keras).
-- Octave and Matlab.
+- Python (Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn, Keras).
+- SQLite.
+- Excel.
+- Octave/Matlab.
 - Fortran 77/90.
+- C/C++.
 
 Skills:
 - Coding with different languajes.
-- Solid knowledge of maths (algebra, calculus and statistics).
-- Machine Learning basics: regression, classification and clustering. From linear models to deep learning.
+- Solid knowledge of maths: algebra, calculus and statistics.
+- Machine Learning knowledge: From linear models to deep learning.
 - English intermediate.
 
 <!--
