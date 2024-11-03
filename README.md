@@ -12,7 +12,6 @@ Languajes and Tools:
 - Excel.
 - Octave/Matlab.
 - Fortran 77/90.
-- C/C++.
 
 Skills:
 - Coding.
